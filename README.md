@@ -28,10 +28,10 @@ This helps improve **road safety**, **traffic rule enforcement**, and **smart tr
 - PyTorch  
 - Ultralytics YOLO  
 - Numpy  
-- Matplotlib  
+- Matplotlib
+- DeepSort  
 
 *(You can install all dependencies using `pip install -r requirements.txt`)*
-
 ---
 
 ## Usage
@@ -39,5 +39,13 @@ This helps improve **road safety**, **traffic rule enforcement**, and **smart tr
 1. Clone the repository:
    ```bash
    git clone https://github.com/Salal04/SafeRide-Vision.git
+   
+2. Clone The Deepsort:
+   ```bash
+   git clone "https://github.com/nwojke/deep_sort.git"
+   
+3. Replace Track File with the given updated Track
+
+
 ## Limitations
 1. detect rear but, Unable to detect front no plate due to unavailabilty of dataset
