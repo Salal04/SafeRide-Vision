@@ -31,7 +31,7 @@ This helps improve **road safety**, **traffic rule enforcement**, and **smart tr
 - Matplotlib
 - DeepSort  
 
-*(You can install all dependencies using `pip install -r requirements.txt`)*
+- *(You can install all dependencies using `pip install -r requirements.txt`)*
 ---
 
 ## Usage
