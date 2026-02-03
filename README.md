@@ -39,3 +39,5 @@ This helps improve **road safety**, **traffic rule enforcement**, and **smart tr
 1. Clone the repository:
    ```bash
    git clone https://github.com/Salal04/SafeRide-Vision.git
+## Limitations
+1. detect rear but, Unable to detect front no plate due to unavailabilty of dataset
