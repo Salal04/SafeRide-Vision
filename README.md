@@ -7,6 +7,9 @@ The system uses **deep learning-based object detection** (like YOLO and DeepSort
 This helps improve **road safety**, **traffic rule enforcement**, and **smart traffic monitoring systems**.
 
 ---
+## Demo 
+
+![SafeRide Vision Demo](output4-ezgif.com-video-to-gif-converter.gif)
 
 ## Features
 
